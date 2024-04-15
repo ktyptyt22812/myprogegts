@@ -12,6 +12,6 @@ public class Helloworld {
         System.out.println(d);
         System.out.println(e);
         System.out.println(g);
-        System.out.println(a - b + c - d - a + e - g);
+        System.out.println(a - b + c - d + a + e - g);
     }
 }
